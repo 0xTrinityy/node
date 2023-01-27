@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cours-nodejs": "github:adrienjoly/cours-nodejs",
+    "express": "^4.18.2",
+    "fetch": "^1.1.0"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
